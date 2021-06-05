@@ -2,7 +2,7 @@
 
 [![Spotify playing](http://spotify.aio-api.ml/spotify?id=31qxaadom6ohwugejzlrr4kqrjhm&theme=city_lights&image=true&bars_when_not_listening=true)](https://open.spotify.com/user/31qxaadom6ohwugejzlrr4kqrjhm)
 
-[![Spotify playing](http://spotify.aio-api.ml/spotify?id=qy9jhr85so9g8pr6zz7aizc6x&theme=wavy&image=true&bars_when_not_listening=true)](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aizc6x)
+[![Spotify playing](http://spotify.aio-api.ml/spotify?id=31qxaadom6ohwugejzlrr4kqrjhm&theme=wavy&image=true&bars_when_not_listening=true)](https://open.spotify.com/user/31qxaadom6ohwugejzlrr4kqrjhm)
 
 ##About me
 
