@@ -1,6 +1,6 @@
 ## My last listened Spotify song
 
-[![Spotify](http://127.0.0.1:5000)](https://open.spotify.com/user/31qxaadom6ohwugejzlrr4kqrjhm)
+<br> [![Spotify](http://127.0.0.1:5000)](https://open.spotify.com/user/31qxaadom6ohwugejzlrr4kqrjhm)
 
 ## About me
 
