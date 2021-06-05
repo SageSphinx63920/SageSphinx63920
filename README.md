@@ -1,8 +1,6 @@
 ##My last listened Spotify song
 
-[![Spotify playing](http://spotify.aio-api.ml/spotify?id=31qxaadom6ohwugejzlrr4kqrjhm&theme=city_lights&image=true&bars_when_not_listening=true)](https://open.spotify.com/user/31qxaadom6ohwugejzlrr4kqrjhm)
-
-[![Spotify playing](http://spotify.aio-api.ml/spotify?id=31qxaadom6ohwugejzlrr4kqrjhm&theme=wavy&image=true&bars_when_not_listening=true)](https://open.spotify.com/user/31qxaadom6ohwugejzlrr4kqrjhm)
+[![Spotify](http://127.0.0.1:5000/)](https://open.spotify.com/user/31qxaadom6ohwugejzlrr4kqrjhm)
 
 ##About me
 
