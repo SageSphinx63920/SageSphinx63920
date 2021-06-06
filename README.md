@@ -1,7 +1,7 @@
 ## My last listened Spotify song
 
       
-[![Spotify](http://89.163.216.84:5000)](https://open.spotify.com/user/31qxaadom6ohwugejzlrr4kqrjhm)
+[![Spotify](https://spotify-chi-two.vercel.app/)](https://open.spotify.com/user/31qxaadom6ohwugejzlrr4kqrjhm)
 
 
 ## About me
