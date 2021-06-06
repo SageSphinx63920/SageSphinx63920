@@ -1,7 +1,7 @@
 ## My last listened Spotify song
 
       
-[![Spotify](https://sagesphinx63920.vercel.app/api/spotify)](https://open.spotify.com/user/31qxaadom6ohwugejzlrr4kqrjhm)
+[![Spotify](https://sagesphinx63920.vercel.app/api/spotify.py)](https://open.spotify.com/user/31qxaadom6ohwugejzlrr4kqrjhm)
 
 
 ## About me
