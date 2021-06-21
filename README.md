@@ -1,7 +1,7 @@
 ## My last listened Spotify song
 
       
-[![Spotify](https://novatorem-coral-rho.vercel.app/api/spotify)](https://novatorem-coral-rho.vercel.app/api/spotify)
+[![Spotify](https://novatorem-seven-theta.vercel.app/api/spotify)](https://open.spotify.com/user/31qxaadom6ohwugejzlrr4kqrjhm)
 
 
 ## About me
