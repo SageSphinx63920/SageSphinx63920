@@ -6,6 +6,11 @@
 
 ## About me
 
+Hello Developer and welcome to my profile! Here you can find everything i like to share with the world. I hope you enjoy my work and Happy coding to everyone!
+``
+boolean happy = true;
+``
+
 ## Stats
 
 
