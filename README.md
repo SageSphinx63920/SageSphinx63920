@@ -16,8 +16,8 @@ boolean happy = true;
 ## My Stats
       
 <div>
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=SageSphinx63920&show_icons=true&count_private=true&theme=merko">
-<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SageSphinx63920&theme=merko">     
+<a href="https://github.com/SageSphinx63920"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=SageSphinx63920&show_icons=true&count_private=true&theme=merko"></a>
+<a href="https://github.com/SageSphinx63920"><img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SageSphinx63920&theme=merko"></a>     
 </div>  
 <!--
 **SageSphinx63920/SageSphinx63920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
