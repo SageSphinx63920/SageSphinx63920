@@ -6,9 +6,6 @@
 ## About me
 
 Hello Developer and welcome to my profile! <br> Here you can find everything i like to share with the world. I hope you enjoy my work and Happy coding to everyone! <br>
-``
-boolean happy = true;
-``
 
 <a href="https://discord.gg/j8emH5ap3k"><img align="center" src="https://discord.c99.nl/widget/theme-2/660887621169446964.png" alt="sagesphinx63920"/></a>
 <a href="https://discord.gg/j8emH5ap3k"><img align="center" src="https://discordapp.com/api/guilds/802315201256357888/embed.png?style=banner2" alt="discord"/></a>
